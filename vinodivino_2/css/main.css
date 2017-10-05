@@ -1,0 +1,62 @@
+
+body {
+    padding: 2%;
+    }
+
+
+
+		
+#messaggioErrore {
+			font: italic bold 30px Georgia, Serif;
+    }
+		
+.logo {
+    
+    width:12em; 
+    float:left; 
+    padding:2%;
+}
+
+.divlogo {
+    
+}
+
+#myCarousel {
+    margin-top: 200px;
+    
+}
+
+
+#menunegozio {
+    float: left;
+
+}
+
+.social {
+    vertical-align: bottom;
+}
+
+.container {
+vertical-align: bottom;
+}
+
+.carrello{
+    margin-top: 200px;
+}
+
+.td_prodotto {
+    width: 100px;
+}
+
+.td_quantity {
+    width: 50px;
+}
+
+.click {
+    float: right;
+}
+
+.avviso {
+    position: absolute;
+    display: none;
+}
